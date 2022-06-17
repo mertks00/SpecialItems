@@ -1,0 +1,6 @@
+name: SpecialItems
+version: '${project.version}'
+main: me.oyuncozucu.specialitems.SpecialItems
+api-version: 1.16
+commands:
+  special:
